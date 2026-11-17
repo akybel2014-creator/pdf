@@ -1,0 +1,6 @@
+{
+  "name": "XPart Catalog Normalizer",
+  "description": "Pulizia, normalizzazione ed esportazione CSV di cataloghi ricambi auto per il database Supabase xpart_ricambi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
